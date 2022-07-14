@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab02</string>
+    <string name="moj_tekst">Witaj świecie!</string>
+
+    <string name="text1">Słówko numer 1!</string>
+    <string name="text2">Słówko numer 2!</string>
+    <string name="text3">Słówko numer 3!</string>
+    <string name="text4">Słówko numer 4!</string>
+    <string name="text5">Słówko numer 5!</string>
+</resources>
